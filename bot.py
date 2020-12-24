@@ -16,7 +16,7 @@ import os
 import zipfile
 import pathlib
 
-bot_token = ""
+bot_token = "1420077711:AAHbcwP0N2b6CqgNjm8WMnbqW5WTY1LXSVk"
 bot = Bot(token=bot_token)
 
 
